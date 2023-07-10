@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<ClassField FieldClassName="ForecastOrder" FieldName="IsActive" ReturnType="6" ReturnClassName="" ClientAccessType="2" SupportsScenario="1" DBFieldName="IsActive" ToBeReleased="0" DBSynchronizationIsAllowed="1" DBReturnType="0" Length="0" DBIsPrimary="0" DBIsMasterData="1" SubReturnType="13" OptionIsMultiSelect="None" GUITag="None" ProcessTag="None" ActionTag="None" FieldType_RO="None">
+	<DefaultValueExpression/>
+	<DBDefaultValue/>
+	<InitialValueExpStr/>
+	<EditMask/>
+	<DisplayFormat/>
+	<OnChangeExpStr/>
+	<OptionsExpStr/>
+	<VisibilityConditionExpStr/>
+	<ErrorExpression/>
+	<ToolTip/>
+	<WEBDisplayFormat/>
+	<WEBEditMask/>
+	<ObjectToolTip/>
+	<ReleaseContextNames/>
+</ClassField>

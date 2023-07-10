@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<ClassField FieldClassName="Operation" FieldName="BatchSize" ReturnType="1" ReturnClassName="" ClientAccessType="1" SupportsScenario="1" DBFieldName="BatchSize" ToBeReleased="0" DBSynchronizationIsAllowed="1" DBReturnType="1" Length="0" DBIsPrimary="0" DBIsMasterData="0" SubReturnType="11" OptionIsMultiSelect="None" GUITag="None" ProcessTag="None" ActionTag="None" FieldType_RO="None">
+	<DefaultValueExpression/>
+	<DBDefaultValue/>
+	<InitialValueExpStr/>
+	<EditMask/>
+	<DisplayFormat/>
+	<OnChangeExpStr/>
+	<OptionsExpStr/>
+	<VisibilityConditionExpStr/>
+	<ErrorExpression/>
+	<ToolTip/>
+	<WEBDisplayFormat/>
+	<WEBEditMask/>
+	<ObjectToolTip/>
+	<ReleaseContextNames/>
+</ClassField>

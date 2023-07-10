@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<ClassField FieldClassName="BOMInventoryOutput" FieldName="ItemCode" ReturnType="3" ReturnClassName="" ClientAccessType="1" SupportsScenario="0" DBFieldName="ItemCode" ToBeReleased="0" DBSynchronizationIsAllowed="1" DBReturnType="2" Length="64" DBIsPrimary="1" DBIsMasterData="0" SubReturnType="31" OptionIsMultiSelect="None" GUITag="None" ProcessTag="None" ActionTag="None" FieldType_RO="None">
+	<DefaultValueExpression/>
+	<DBDefaultValue><![CDATA[0]]></DBDefaultValue>
+	<InitialValueExpStr/>
+	<EditMask/>
+	<DisplayFormat/>
+	<OnChangeExpStr/>
+	<OptionsExpStr/>
+	<VisibilityConditionExpStr/>
+	<ErrorExpression/>
+	<ToolTip/>
+	<WEBDisplayFormat/>
+	<WEBEditMask/>
+	<ObjectToolTip/>
+	<ReleaseContextNames/>
+</ClassField>

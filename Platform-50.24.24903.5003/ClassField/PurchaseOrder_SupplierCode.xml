@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<ClassField FieldClassName="PurchaseOrder" FieldName="SupplierCode" ReturnType="3" ReturnClassName="" ClientAccessType="2" SupportsScenario="1" DBFieldName="SupplierCode" ToBeReleased="0" DBSynchronizationIsAllowed="1" DBReturnType="2" Length="64" DBIsPrimary="0" DBIsMasterData="1" SubReturnType="31" OptionIsMultiSelect="None" GUITag="None" ProcessTag="None" ActionTag="None" FieldType_RO="None">
+	<DefaultValueExpression/>
+	<DBDefaultValue/>
+	<InitialValueExpStr/>
+	<EditMask/>
+	<DisplayFormat/>
+	<OnChangeExpStr/>
+	<OptionsExpStr/>
+	<VisibilityConditionExpStr/>
+	<ErrorExpression/>
+	<ToolTip/>
+	<WEBDisplayFormat/>
+	<WEBEditMask/>
+	<ObjectToolTip/>
+	<ReleaseContextNames/>
+</ClassField>

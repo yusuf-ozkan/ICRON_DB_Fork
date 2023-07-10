@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<ClassSettings SettingsClassName="InventoryRequirementPerPeriod" LibraryName="schsys3.dll" ClassType="2" PerPeriodParentClassName="InventoryRequirement" DBTableName="" ObjectEditType="7" DBSynchronizationType="0" ObjectsAreTransient="None" nMaxLiveObjects="None" MaxAgeOfLiveObjects="None" GUITag="" ProcessTag="" ActionTag="None" DSName="defaultds" DBSynchronizationInterval="None" ExtractDSName="None" ClassType_ROH="None" ClassType_BO="None" DataContextCode="None" MirrorDSName="None" ReleaseParentClassName="None" SharedSchemaClassName="None" ReleaseDataSet="None">
+	<ObjectLabelExpression/>
+	<CanWriteObjectToDBExpression/>
+	<AuthorizationLabelExpression/>
+	<ErrorExpression/>
+	<DBSynchronizationFilter/>
+	<ReleaseFilter/>
+</ClassSettings>

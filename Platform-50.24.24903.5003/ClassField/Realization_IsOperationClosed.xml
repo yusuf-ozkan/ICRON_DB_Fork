@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<ClassField FieldClassName="Realization" FieldName="IsOperationClosed" ReturnType="6" ReturnClassName="" ClientAccessType="2" SupportsScenario="1" DBFieldName="IsOperationClosed" ToBeReleased="0" DBSynchronizationIsAllowed="1" DBReturnType="0" Length="0" DBIsPrimary="0" DBIsMasterData="1" SubReturnType="11" OptionIsMultiSelect="None" GUITag="None" ProcessTag="None" ActionTag="None" FieldType_RO="None">
+	<DefaultValueExpression/>
+	<DBDefaultValue/>
+	<InitialValueExpStr/>
+	<EditMask/>
+	<DisplayFormat/>
+	<OnChangeExpStr/>
+	<OptionsExpStr/>
+	<VisibilityConditionExpStr/>
+	<ErrorExpression/>
+	<ToolTip/>
+	<WEBDisplayFormat/>
+	<WEBEditMask/>
+	<ObjectToolTip/>
+	<ReleaseContextNames/>
+</ClassField>

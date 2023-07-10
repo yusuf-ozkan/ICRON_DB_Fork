@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<ClassField FieldClassName="QuotationOrderItem" FieldName="RequestedDueDate" ReturnType="2" ReturnClassName="" ClientAccessType="2" SupportsScenario="1" DBFieldName="RequestedDueDate" ToBeReleased="0" DBSynchronizationIsAllowed="1" DBReturnType="3" Length="0" DBIsPrimary="0" DBIsMasterData="1" SubReturnType="21" OptionIsMultiSelect="None" GUITag="None" ProcessTag="None" ActionTag="None" FieldType_RO="None">
+	<DefaultValueExpression/>
+	<DBDefaultValue/>
+	<InitialValueExpStr/>
+	<EditMask/>
+	<DisplayFormat/>
+	<OnChangeExpStr/>
+	<OptionsExpStr/>
+	<VisibilityConditionExpStr/>
+	<ErrorExpression/>
+	<ToolTip/>
+	<WEBDisplayFormat/>
+	<WEBEditMask/>
+	<ObjectToolTip/>
+	<ReleaseContextNames/>
+</ClassField>

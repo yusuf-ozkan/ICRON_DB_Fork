@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<ClassSettings SettingsClassName="SMS" LibraryName="None" ClassType="1" PerPeriodParentClassName="" DBTableName="SMS" ObjectEditType="0" DBSynchronizationType="2" ObjectsAreTransient="None" nMaxLiveObjects="None" MaxAgeOfLiveObjects="None" GUITag="None" ProcessTag="None" ActionTag="None" DSName="defaultds" DBSynchronizationInterval="None" ExtractDSName="None" ClassType_ROH="None" ClassType_BO="None" DataContextCode="None" MirrorDSName="None" ReleaseParentClassName="None" SharedSchemaClassName="None" ReleaseDataSet="None">
+	<ObjectLabelExpression/>
+	<CanWriteObjectToDBExpression/>
+	<AuthorizationLabelExpression/>
+	<ErrorExpression/>
+	<DBSynchronizationFilter/>
+	<ReleaseFilter/>
+</ClassSettings>

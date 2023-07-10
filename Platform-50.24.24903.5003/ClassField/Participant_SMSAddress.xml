@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<ClassField FieldClassName="Participant" FieldName="SMSAddress" ReturnType="3" ReturnClassName="" ClientAccessType="1" SupportsScenario="0" DBFieldName="SMSAddress" ToBeReleased="0" DBSynchronizationIsAllowed="1" DBReturnType="2" Length="-1" DBIsPrimary="0" DBIsMasterData="0" SubReturnType="31" OptionIsMultiSelect="None" GUITag="None" ProcessTag="None" ActionTag="None" FieldType_RO="None">
+	<DefaultValueExpression/>
+	<DBDefaultValue/>
+	<InitialValueExpStr/>
+	<EditMask/>
+	<DisplayFormat/>
+	<OnChangeExpStr/>
+	<OptionsExpStr/>
+	<VisibilityConditionExpStr/>
+	<ErrorExpression/>
+	<ToolTip/>
+	<WEBDisplayFormat/>
+	<WEBEditMask/>
+	<ObjectToolTip/>
+	<ReleaseContextNames/>
+</ClassField>
